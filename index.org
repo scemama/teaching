@@ -12,6 +12,7 @@
   - [[./C.pdf][Compilation and C]]
   - [[./HPC.pdf][Introduction to HPC]]
   - [[./Networking.pdf][Networking]]
+  - [[https://github.com/scemama/tccm-homeworks][TCCM Homeworks repository]]
 
 * 2020-2023 - LTTC
   - [[http://trex-coe.github.io/qmc-lttc-2023/index.html][Quantum Monte Carlo]]
