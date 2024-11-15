@@ -1,0 +1,35 @@
+#+TITLE:      Anthony Scemama's teaching page
+#+AUTHOR:     Anthony Scemama
+#+EMAIL:      (concat "scemama" at-sign "irsamc.ups-tlse.fr")
+#+OPTIONS:    tags:not-in-toc num:nil ^:{} \n:t title:nil
+#+STARTUP:    align fold nodlcheck hidestars oddeven lognotestate
+#+LANGUAGE:   en
+#+SETUPFILE:  org/theme-readtheorg-local.setup
+
+[[../index.html][Back to my web page]]
+
+* 2024 - TCCM
+  - [[./C.pdf][Compilation and C]]
+  - [[./HPC.pdf][Introduction to HPC]]
+  - [[./Networking.pdf][Networking]]
+
+* 2020-2023 - LTTC
+  - [[http://trex-coe.github.io/qmc-lttc-2023/index.html][Quantum Monte Carlo]]
+
+* 2021 - TCCM
+  - [[./parallelism.pdf][Parallelism]]
+  - [[./irpf90.pdf][IRPF90]]
+
+* 2021 - TREX Workshop
+  - [[https://trex-coe.github.io/hackathon/index.html][Autotools]]
+
+* 2018 - ISAE
+  - [[./optimisation_fr.pdf][Optimisation]]
+    
+* 2013 - EDSDM
+  - [[./bash.pdf][Bash]]
+  - [[./git.pdf][Git]]
+  - [[./make.pdf][GNU Make]]
+  - [[./sqlite.pdf][SQLite]]
+  
+    
