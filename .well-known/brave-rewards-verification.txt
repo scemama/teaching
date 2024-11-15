@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: scemama.github.io
+Token: d0e90700711e80fce0f0d523ae1a798ca226cd72e203c29302f9568963cf835d
